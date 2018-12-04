@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/12/02 13.00.00.000.350,F:\01 basruddin\project aws\delphi_01\unit_utama.dfm=F:\01 basruddin\project delphi\07\UnitUtama.dfm</Transaction>
+    <Transaction>2018/12/02 13.00.00.000.868,F:\01 basruddin\project aws\delphi_01\aws.dproj=F:\01 basruddin\project delphi\07\aws.dproj</Transaction>
+    <Transaction>2018/12/02 13.00.00.000.350,F:\01 basruddin\project aws\delphi_01\unit_utama.pas=F:\01 basruddin\project delphi\07\UnitUtama.pas</Transaction>
+    <Transaction>2018/12/02 14.00.00.000.100,=F:\01 basruddin\project delphi\07\UnitSetting.pas</Transaction>
+    <Transaction>2018/12/02 16.00.00.000.006,=F:\01 basruddin\project delphi\07\Unit1.pas</Transaction>
+    <Transaction>2018/12/04 11.51.30.119,F:\01 basruddin\project delphi\07 - Copy\UnitUtama.pas=</Transaction>
+    <Transaction>2018/12/04 11.51.30.142,F:\01 basruddin\project delphi\07 - Copy\Unit1.pas=</Transaction>
+    <Transaction>2018/12/04 11.57.15.530,F:\01 basruddin\project delphi\08\delphi_arduino_multisensor.dproj=F:\01 basruddin\project delphi\07 - Copy\aws.dproj</Transaction>
+    <Transaction>2018/12/04 11.57.27.609,F:\01 basruddin\project delphi\08\UnitSetting.pas=F:\01 basruddin\project delphi\07 - Copy\UnitSetting.pas</Transaction>
+    <Transaction>2018/12/04 11.57.27.609,F:\01 basruddin\project delphi\08\UnitSetting.dfm=F:\01 basruddin\project delphi\07 - Copy\UnitSetting.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
